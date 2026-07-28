@@ -68,7 +68,7 @@ GROUP BY gender;
 
 ### Page 1: Customer Shopping Overview
 
-![Customer Shopping Dashboard - Page 1](dashboard-page1.png)
+![Customer Shopping Dashboard - Page 1](images/dashboard-page1.png)
 
 
 ## 🚀 Key Insights
